@@ -8,4 +8,4 @@ node.js, node npm.
 
 Installation via npm:
 
-`npm install inquirer qr-image`
+``npm install inquirer qr-image````
